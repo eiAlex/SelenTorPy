@@ -9,7 +9,7 @@ import time
 import csv
 
 codslist = []
-lines = open('message.txt', 'r')
+lines = open('message_3.txt', 'r')
 for line in lines:
     codslist.append(line.strip())
 
