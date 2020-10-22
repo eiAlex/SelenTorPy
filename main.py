@@ -120,7 +120,8 @@ while keyCods < len(cods):
 
             SelenTor.disconnect(driver)
             time.sleep(2)
-            driver = SelenTor.connect(r"C:\Users\<USER>\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe", r"C:\Users\<USER>\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default", True)
+            driver = SelenTor.connect(r"C:\TorBrowser\Browser\TorBrowser\Tor\tor.exe", r"C:\TorBrowser\Browser\TorBrowser\Data\Browser\profile.default", True)
+
 
             driver.get(base_url + cods[keyCods])
 
@@ -149,7 +150,7 @@ while keyCods < len(cods):
     except:
         pass
     finally:
-        print("Gravar CSV")     
+        print("Gravar CSV")
         with open('Ean-list.csv', 'w', encoding='utf-8') as cvs_file:
             writer = csv.writer(cvs_file, delimiter =';')
             for i in elements_to_CSV:
