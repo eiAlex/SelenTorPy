@@ -34419,7 +34419,8 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "res
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 1603321786293	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
--no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilegXkHe7"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ta\\Local\\Temp\\rust_mozprofilegXkHe7"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 extension-storage: migration complete
@@ -34431,8 +34432,8 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 1603321811601	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 1603408209808	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
-less mode.
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+/XULStore.jsm, line 66: Error: Can't find profile directory.
 extension-storage: migration complete
 1603321189330	Marionette	INFO	Listening on port 64850
 1603321189497	Marionette	WARN	TLS certificate errors will be ignored for this session
@@ -34687,8 +34688,8 @@ console.error: Region.jsm: "Error fetching region" (new AbortError("The operatio
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:51427
-1603327639456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileX2eNyX"
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileX2eNyX"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 extension-storage: migration complete
@@ -35641,8 +35642,8 @@ extension-storage: migration complete
 1603332062992	Marionette	WARN	TLS certificate errors will be ignored for this session
 1603332074473	Marionette	INFO	Stopped listening on port 63345
 [Parent 30248, Gecko_IOThread] WARNING: fJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-base/process_util_win.cc, line 166
-1603332077013	geckodriver	INFO	Listening on 127.0.0.1:63394
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ckodriver	INFO	Listening on 127.0.0.1:63394
 1603332080902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileB3wpj7"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
@@ -46210,7 +46211,8 @@ extension-storage: migration complete
 console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1603407651006	geckodriver	INFO	Listening on 127.0.0.1:57150
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57150
 1603407654843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileQbSTL8"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
@@ -47095,7 +47097,8 @@ extension-storage: migration complete
 console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1603444953287	geckodriver	INFO	Listening on 127.0.0.1:62196
+Exiting due to channel error.
+Listening on 127.0.0.1:62196
 1603444957153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileZfSwbm"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
@@ -48169,3 +48172,1299 @@ extension-storage: migration complete
 1603455980466	Marionette	INFO	Listening on port 53199
 1603455980699	Marionette	WARN	TLS certificate errors will be ignored for this session
 1603456019540	Marionette	INFO	Stopped listening on port 53199
+1603726260493	geckodriver	INFO	Listening on 127.0.0.1:58925
+1603726264361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileU1eZQz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603726265708	Marionette	INFO	Listening on port 58936
+1603726265890	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603726322392	Marionette	INFO	Stopped listening on port 58936
+1603726324892	geckodriver	INFO	Listening on 127.0.0.1:58982
+1603726328759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileXRWHdI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603726330430	Marionette	INFO	Listening on port 58991
+1603726330819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603726366719	Marionette	INFO	Stopped listening on port 58991
+1603726369293	geckodriver	INFO	Listening on 127.0.0.1:59044
+1603726373156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileMN65Nx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603726374630	Marionette	INFO	Listening on port 59055
+1603726374691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603726409832	Marionette	INFO	Stopped listening on port 59055
+1603726412353	geckodriver	INFO	Listening on 127.0.0.1:59104
+1603726416170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileYpJ4QP"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603726417516	Marionette	INFO	Listening on port 59113
+1603726417709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603726477533	Marionette	INFO	Stopped listening on port 59113
+1603726480062	geckodriver	INFO	Listening on 127.0.0.1:59167
+1603726483971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileFjKq0Y"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603726485335	Marionette	INFO	Listening on port 59176
+1603726485508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603726529446	Marionette	INFO	Stopped listening on port 59176
+1603726531982	geckodriver	INFO	Listening on 127.0.0.1:59240
+1603726535863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilenv7s05"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603726537213	Marionette	INFO	Listening on port 59250
+1603726537398	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1603726831430	Marionette	INFO	Stopped listening on port 59250
+1603726833876	geckodriver	INFO	Listening on 127.0.0.1:59395
+1603726837745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileX8Wiuz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603726839103	Marionette	INFO	Listening on port 59404
+1603726839284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603726873192	Marionette	INFO	Stopped listening on port 59404
+1603726875727	geckodriver	INFO	Listening on 127.0.0.1:59450
+1603726879627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile46Gcur"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603726881056	Marionette	INFO	Listening on port 59460
+1603726881173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603726919630	Marionette	INFO	Stopped listening on port 59460
+1603726922146	geckodriver	INFO	Listening on 127.0.0.1:59508
+1603726926055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileYUFmWA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603726927394	Marionette	INFO	Listening on port 59517
+1603726927606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603726933571	Marionette	INFO	Stopped listening on port 59517
+[Parent 26316, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603726936088	geckodriver	INFO	Listening on 127.0.0.1:59563
+1603726939950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileX5HbjY"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603726941267	Marionette	INFO	Listening on port 59572
+1603726941496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603726981143	Marionette	INFO	Stopped listening on port 59572
+1603726983670	geckodriver	INFO	Listening on 127.0.0.1:59620
+1603726987564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilelzfAbX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603726988943	Marionette	INFO	Listening on port 59629
+1603726989108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603727029465	Marionette	INFO	Stopped listening on port 59629
+1603727032037	geckodriver	INFO	Listening on 127.0.0.1:59676
+1603727035968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileULqeXT"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603727037330	Marionette	INFO	Listening on port 59685
+1603727037498	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1603728901573	geckodriver	INFO	Listening on 127.0.0.1:59848
+1603728905536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilexQl4jW"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603728906905	Marionette	INFO	Listening on port 59856
+1603728907087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603728919459	Marionette	INFO	Stopped listening on port 59856
+[Parent 38508, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603728922006	geckodriver	INFO	Listening on 127.0.0.1:59902
+1603728925888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileQAAS8J"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603728927244	Marionette	INFO	Listening on port 59911
+1603728927423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603728969642	Marionette	INFO	Stopped listening on port 59911
+1603728972222	geckodriver	INFO	Listening on 127.0.0.1:59956
+1603728976130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileN87VHv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603728977464	Marionette	INFO	Listening on port 59965
+1603728977661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729031904	Marionette	INFO	Stopped listening on port 59965
+1603729034438	geckodriver	INFO	Listening on 127.0.0.1:60010
+1603729038344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile2wPRUF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729039664	Marionette	INFO	Listening on port 60019
+1603729039888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729087237	Marionette	INFO	Stopped listening on port 60019
+1603729089788	geckodriver	INFO	Listening on 127.0.0.1:60073
+1603729093704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile4IYVUh"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729095069	Marionette	INFO	Listening on port 60084
+1603729095229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729143329	Marionette	INFO	Stopped listening on port 60084
+1603729145848	geckodriver	INFO	Listening on 127.0.0.1:60133
+1603729149723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile3QOjgr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729151084	Marionette	INFO	Listening on port 60142
+1603729151272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729157464	Marionette	INFO	Stopped listening on port 60142
+[Parent 23144, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603729160000	geckodriver	INFO	Listening on 127.0.0.1:60186
+1603729163850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileaIdsnb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729165191	Marionette	INFO	Listening on port 60195
+1603729165392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1603729387547	Marionette	INFO	Stopped listening on port 60195
+1603729389971	geckodriver	INFO	Listening on 127.0.0.1:60281
+1603729393851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilezL1aVg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729395186	Marionette	INFO	Listening on port 60290
+1603729395395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729438819	Marionette	INFO	Stopped listening on port 60290
+1603729441376	geckodriver	INFO	Listening on 127.0.0.1:60340
+1603729445238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilelsJHke"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729446634	Marionette	INFO	Listening on port 60350
+1603729446785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729501548	Marionette	INFO	Stopped listening on port 60350
+1603729504088	geckodriver	INFO	Listening on 127.0.0.1:60398
+1603729507960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileQLNiyB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729509274	Marionette	INFO	Listening on port 60407
+1603729509495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729517175	Marionette	INFO	Stopped listening on port 60407
+1603729519699	geckodriver	INFO	Listening on 127.0.0.1:60456
+1603729524428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileWzk656"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729525925	Marionette	INFO	Listening on port 60469
+1603729525988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729531804	Marionette	INFO	Stopped listening on port 60469
+1603729534291	geckodriver	INFO	Listening on 127.0.0.1:60514
+1603729538303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofiled4gQVI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729539666	Marionette	INFO	Listening on port 60523
+1603729539848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729589308	Marionette	INFO	Stopped listening on port 60523
+1603729591828	geckodriver	INFO	Listening on 127.0.0.1:60574
+1603729595634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileXx1X7G"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729597053	Marionette	INFO	Listening on port 60583
+1603729597177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729614486	Marionette	INFO	Stopped listening on port 60583
+1603729616999	geckodriver	INFO	Listening on 127.0.0.1:60628
+1603729620863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofiley1tAaj"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729622204	Marionette	INFO	Listening on port 60637
+1603729622394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729663400	Marionette	INFO	Stopped listening on port 60637
+1603729665985	geckodriver	INFO	Listening on 127.0.0.1:60690
+1603729669850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileoE6TSS"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729671147	Marionette	INFO	Listening on port 60699
+1603729671388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729725779	Marionette	INFO	Stopped listening on port 60699
+[Parent 33680, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603729728354	geckodriver	INFO	Listening on 127.0.0.1:60744
+1603729732255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilePpTltv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729733570	Marionette	INFO	Listening on port 60753
+1603729733804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729774754	Marionette	INFO	Stopped listening on port 60753
+1603729777284	geckodriver	INFO	Listening on 127.0.0.1:60798
+1603729781141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilemfuWoe"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729782465	Marionette	INFO	Listening on port 60807
+1603729782692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729836822	Marionette	INFO	Stopped listening on port 60807
+[Parent 20728, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603729839354	geckodriver	INFO	Listening on 127.0.0.1:60855
+1603729843251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilehBvPyh"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729844600	Marionette	INFO	Listening on port 60864
+1603729844784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729883373	Marionette	INFO	Stopped listening on port 60864
+1603729885918	geckodriver	INFO	Listening on 127.0.0.1:60917
+1603729889739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileUui69R"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729891031	Marionette	INFO	Listening on port 60926
+1603729891284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729930705	Marionette	INFO	Stopped listening on port 60926
+1603729933231	geckodriver	INFO	Listening on 127.0.0.1:60972
+1603729937065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileh6PoaL"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729938348	Marionette	INFO	Listening on port 60981
+1603729938598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603729988386	Marionette	INFO	Stopped listening on port 60981
+1603729990921	geckodriver	INFO	Listening on 127.0.0.1:61033
+1603729994743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile34SgBa"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603729996053	Marionette	INFO	Listening on port 61044
+1603729996267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730035853	Marionette	INFO	Stopped listening on port 61044
+1603730038368	geckodriver	INFO	Listening on 127.0.0.1:61092
+1603730042160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileJKHHSS"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730043513	Marionette	INFO	Listening on port 61101
+1603730043694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730091712	Marionette	INFO	Stopped listening on port 61101
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603730094237	geckodriver	INFO	Listening on 127.0.0.1:61146
+1603730098054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileh1jQrz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730099356	Marionette	INFO	Listening on port 61155
+1603730099596	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603730220295	Marionette	INFO	Stopped listening on port 61155
+1603730222746	geckodriver	INFO	Listening on 127.0.0.1:61206
+1603730226628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileJ5f1zM"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730227965	Marionette	INFO	Listening on port 61215
+1603730228181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730234943	Marionette	INFO	Stopped listening on port 61215
+[Parent 5668, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603730237427	geckodriver	INFO	Listening on 127.0.0.1:61262
+1603730241295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileYSYKgZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730242652	Marionette	INFO	Listening on port 61276
+1603730242827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730284046	Marionette	INFO	Stopped listening on port 61276
+1603730286567	geckodriver	INFO	Listening on 127.0.0.1:61329
+1603730290441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileQMylUd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730291666	Marionette	INFO	Listening on port 61338
+1603730291974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730330968	Marionette	INFO	Stopped listening on port 61338
+1603730333514	geckodriver	INFO	Listening on 127.0.0.1:50561
+1603730337390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileLVoitr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730338697	Marionette	INFO	Listening on port 50570
+1603730338932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730386921	Marionette	INFO	Stopped listening on port 50570
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603730389432	geckodriver	INFO	Listening on 127.0.0.1:50616
+1603730393433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileb6VWoI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730394891	Marionette	INFO	Listening on port 50632
+1603730394987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730435194	Marionette	INFO	Stopped listening on port 50632
+1603730437768	geckodriver	INFO	Listening on 127.0.0.1:50685
+1603730441665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilefZcTsa"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730443084	Marionette	INFO	Listening on port 50695
+1603730443213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730494898	Marionette	INFO	Stopped listening on port 50695
+1603730497422	geckodriver	INFO	Listening on 127.0.0.1:50744
+1603730501295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileeRgpis"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730502792	Marionette	INFO	Listening on port 50753
+1603730502836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730541235	Marionette	INFO	Stopped listening on port 50753
+1603730543815	geckodriver	INFO	Listening on 127.0.0.1:50809
+1603730547649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileYLMYoT"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730549007	Marionette	INFO	Listening on port 50818
+1603730549198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730598167	Marionette	INFO	Stopped listening on port 50818
+1603730600859	geckodriver	INFO	Listening on 127.0.0.1:50870
+1603730604732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilenyBqXd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730606230	Marionette	INFO	Listening on port 50880
+1603730606262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730649016	Marionette	INFO	Stopped listening on port 50880
+1603730651548	geckodriver	INFO	Listening on 127.0.0.1:50926
+1603730655452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile1LKIIF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730656806	Marionette	INFO	Listening on port 50935
+1603730656996	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603730784111	Marionette	INFO	Stopped listening on port 50935
+1603730786383	geckodriver	INFO	Listening on 127.0.0.1:51003
+1603730790224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilemWHfTw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730791542	Marionette	INFO	Listening on port 51012
+1603730791763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730798049	Marionette	INFO	Stopped listening on port 51012
+1603730800544	geckodriver	INFO	Listening on 127.0.0.1:51058
+1603730804453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileL22EuF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730805745	Marionette	INFO	Listening on port 51069
+1603730805999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730847615	Marionette	INFO	Stopped listening on port 51069
+[Parent 38284, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603730850120	geckodriver	INFO	Listening on 127.0.0.1:51122
+1603730853956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileNmBXOH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730855254	Marionette	INFO	Listening on port 51131
+1603730855513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603730903584	Marionette	INFO	Stopped listening on port 51131
+1603730906114	geckodriver	INFO	Listening on 127.0.0.1:51205
+1603730910006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilea6cOfv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603730911628	Marionette	INFO	Listening on port 51218
+1603730912055	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1603737198199	geckodriver	INFO	Listening on 127.0.0.1:61854
+1603737202094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileOl6WjJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737203410	Marionette	INFO	Listening on port 61863
+1603737203634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737251932	Marionette	INFO	Stopped listening on port 61863
+[Parent 1948, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603737254491	geckodriver	INFO	Listening on 127.0.0.1:61916
+1603737258424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileptt2jc"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737259734	Marionette	INFO	Listening on port 61926
+1603737259959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737266354	Marionette	INFO	Stopped listening on port 61926
+1603737268870	geckodriver	INFO	Listening on 127.0.0.1:61973
+1603737272708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileRCptfP"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737274074	Marionette	INFO	Listening on port 61983
+1603737274253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737327957	Marionette	INFO	Stopped listening on port 61983
+[Parent 10136, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603737330474	geckodriver	INFO	Listening on 127.0.0.1:62034
+1603737334385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileP3FmQk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737335781	Marionette	INFO	Listening on port 62047
+1603737335935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737375762	Marionette	INFO	Stopped listening on port 62047
+1603737378396	geckodriver	INFO	Listening on 127.0.0.1:62096
+1603737382309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileM1Zfbt"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737383707	Marionette	INFO	Listening on port 62105
+1603737383869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737432089	Marionette	INFO	Stopped listening on port 62105
+1603737434612	geckodriver	INFO	Listening on 127.0.0.1:62155
+1603737438482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileTGJ7qg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737439894	Marionette	INFO	Listening on port 62165
+1603737440027	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603737446591	Marionette	INFO	Stopped listening on port 62165
+1603737449077	geckodriver	INFO	Listening on 127.0.0.1:62213
+1603737452938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilezJu76M"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737454306	Marionette	INFO	Listening on port 62223
+1603737454487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737462855	Marionette	INFO	Stopped listening on port 62223
+[Parent 23204, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603737465418	geckodriver	INFO	Listening on 127.0.0.1:62267
+1603737469296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileZs70t0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737470766	Marionette	INFO	Listening on port 62276
+1603737470839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737510026	Marionette	INFO	Stopped listening on port 62276
+1603737512617	geckodriver	INFO	Listening on 127.0.0.1:62324
+1603737516484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile8PrCLX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737517924	Marionette	INFO	Listening on port 62337
+1603737518022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737525174	Marionette	INFO	Stopped listening on port 62337
+[Parent 17524, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603737527674	geckodriver	INFO	Listening on 127.0.0.1:62383
+1603737531623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileonyZrK"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737533072	Marionette	INFO	Listening on port 62393
+1603737533162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737572702	Marionette	INFO	Stopped listening on port 62393
+1603737575266	geckodriver	INFO	Listening on 127.0.0.1:62441
+1603737579159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilem3QiHe"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737580591	Marionette	INFO	Listening on port 62450
+1603737580699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737620683	Marionette	INFO	Stopped listening on port 62450
+1603737623215	geckodriver	INFO	Listening on 127.0.0.1:62497
+1603737627114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilerBnWAb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737628461	Marionette	INFO	Listening on port 62506
+1603737628666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737668824	Marionette	INFO	Stopped listening on port 62506
+1603737671358	geckodriver	INFO	Listening on 127.0.0.1:62558
+1603737675249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileTc76pv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737676593	Marionette	INFO	Listening on port 62567
+1603737676789	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603737683455	Marionette	INFO	Stopped listening on port 62567
+1603737685975	geckodriver	INFO	Listening on 127.0.0.1:62612
+1603737689841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilevRMZCS"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737691168	Marionette	INFO	Listening on port 62621
+1603737691386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737750039	Marionette	INFO	Stopped listening on port 62621
+1603737752585	geckodriver	INFO	Listening on 127.0.0.1:62672
+1603737756435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilej4rhnm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737757784	Marionette	INFO	Listening on port 62681
+1603737757983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737796727	Marionette	INFO	Stopped listening on port 62681
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603737799681	geckodriver	INFO	Listening on 127.0.0.1:62734
+1603737803549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilekoeQJV"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737804781	Marionette	INFO	Listening on port 62748
+1603737805093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737854569	Marionette	INFO	Stopped listening on port 62748
+1603737857110	geckodriver	INFO	Listening on 127.0.0.1:62806
+1603737860923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilevKjRp6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737862219	Marionette	INFO	Listening on port 62816
+1603737862457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603737903898	Marionette	INFO	Stopped listening on port 62816
+[Parent 11128, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603737906425	geckodriver	INFO	Listening on 127.0.0.1:62862
+1603737910281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileYKkyaB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603737911569	Marionette	INFO	Listening on port 62871
+1603737911821	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1603741406643	geckodriver	INFO	Listening on 127.0.0.1:61586
+1603741410577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilejesXkX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741411910	Marionette	INFO	Listening on port 61596
+1603741412121	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603741449371	Marionette	INFO	Stopped listening on port 61596
+console.error: services.settings: 
+  main/nimbus-desktop-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1603741451862	geckodriver	INFO	Listening on 127.0.0.1:61781
+1603741455810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileaBpUxw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741457174	Marionette	INFO	Listening on port 61791
+1603741457360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603741462742	Marionette	INFO	Stopped listening on port 61791
+[Parent 38556, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603741465233	geckodriver	INFO	Listening on 127.0.0.1:61841
+1603741469119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilefbr8UA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741470478	Marionette	INFO	Listening on port 61854
+1603741470660	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603741476765	Marionette	INFO	Stopped listening on port 61854
+1603741479258	geckodriver	INFO	Listening on 127.0.0.1:61907
+1603741483151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileRcr2SP"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741484395	Marionette	INFO	Listening on port 61917
+1603741484695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603741532021	Marionette	INFO	Stopped listening on port 61917
+1603741534623	geckodriver	INFO	Listening on 127.0.0.1:61976
+1603741538547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileKrRWUj"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741540017	Marionette	INFO	Listening on port 61985
+1603741540097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603741591338	Marionette	INFO	Stopped listening on port 61985
+1603741593868	geckodriver	INFO	Listening on 127.0.0.1:62035
+1603741597778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilevlZ8F7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741599093	Marionette	INFO	Listening on port 62045
+1603741599319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603741605766	Marionette	INFO	Stopped listening on port 62045
+1603741608252	geckodriver	INFO	Listening on 127.0.0.1:62093
+1603741612077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile9nNnl7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741613430	Marionette	INFO	Listening on port 62102
+1603741613622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603741620696	Marionette	INFO	Stopped listening on port 62102
+1603741623204	geckodriver	INFO	Listening on 127.0.0.1:62147
+1603741627057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileInL3aV"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741628375	Marionette	INFO	Listening on port 62156
+1603741628594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603741668727	Marionette	INFO	Stopped listening on port 62156
+1603741671292	geckodriver	INFO	Listening on 127.0.0.1:62210
+1603741675130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileIinSRp"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741676442	Marionette	INFO	Listening on port 62219
+1603741676682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603741717224	Marionette	INFO	Stopped listening on port 62219
+1603741719768	geckodriver	INFO	Listening on 127.0.0.1:62269
+1603741723618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileJOdmHG"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741724997	Marionette	INFO	Listening on port 62279
+1603741725173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603741782458	Marionette	INFO	Stopped listening on port 62279
+1603741784980	geckodriver	INFO	Listening on 127.0.0.1:62331
+1603741788804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile9KZNfk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741790114	Marionette	INFO	Listening on port 62340
+1603741790342	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603741796739	Marionette	INFO	Stopped listening on port 62340
+1603741799255	geckodriver	INFO	Listening on 127.0.0.1:62386
+1603741803105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileJ4N2CK"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741804414	Marionette	INFO	Listening on port 62395
+1603741804640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603741849192	Marionette	INFO	Stopped listening on port 62395
+1603741851770	geckodriver	INFO	Listening on 127.0.0.1:62445
+1603741855659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileDtojsY"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741856981	Marionette	INFO	Listening on port 62454
+1603741857183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603741865358	Marionette	INFO	Stopped listening on port 62454
+1603741867854	geckodriver	INFO	Listening on 127.0.0.1:62498
+1603741871751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile3LIHWZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741873099	Marionette	INFO	Listening on port 62507
+1603741873290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603741918122	Marionette	INFO	Stopped listening on port 62507
+1603741920670	geckodriver	INFO	Listening on 127.0.0.1:62563
+1603741924493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile1ni9fd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741925799	Marionette	INFO	Listening on port 62573
+1603741926045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603741966899	Marionette	INFO	Stopped listening on port 62573
+1603741969458	geckodriver	INFO	Listening on 127.0.0.1:62621
+1603741973324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilejnnF4e"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603741974715	Marionette	INFO	Listening on port 62630
+1603741974876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742015094	Marionette	INFO	Stopped listening on port 62630
+1603742017619	geckodriver	INFO	Listening on 127.0.0.1:62679
+1603742021463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileICb9lm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742022851	Marionette	INFO	Listening on port 62688
+1603742023012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742033799	Marionette	INFO	Stopped listening on port 62688
+1603742036297	geckodriver	INFO	Listening on 127.0.0.1:62733
+1603742040182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileGyQ7ea"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742041550	Marionette	INFO	Listening on port 62744
+1603742041723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742079641	Marionette	INFO	Stopped listening on port 62744
+1603742082291	geckodriver	INFO	Listening on 127.0.0.1:62792
+1603742086098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileshxrVo"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742087414	Marionette	INFO	Listening on port 62801
+1603742087654	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603742129895	Marionette	INFO	Stopped listening on port 62801
+[Parent 35988, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603742132452	geckodriver	INFO	Listening on 127.0.0.1:62863
+1603742136291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile2GdgIP"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742137901	Marionette	INFO	Listening on port 62881
+1603742138329	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603742195287	Marionette	INFO	Stopped listening on port 62881
+1603742197824	geckodriver	INFO	Listening on 127.0.0.1:62946
+1603742201686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileDZ6URX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742202930	Marionette	INFO	Listening on port 62957
+1603742203228	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603742210320	Marionette	INFO	Stopped listening on port 62957
+1603742212828	geckodriver	INFO	Listening on 127.0.0.1:63006
+1603742216670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile0sbDUF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742217976	Marionette	INFO	Listening on port 63017
+1603742218209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742225949	Marionette	INFO	Stopped listening on port 63017
+[Parent 33616, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1603742228471	geckodriver	INFO	Listening on 127.0.0.1:63063
+1603742232352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile7wumDD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742233673	Marionette	INFO	Listening on port 63072
+1603742233902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742290048	Marionette	INFO	Stopped listening on port 63072
+1603742292614	geckodriver	INFO	Listening on 127.0.0.1:63122
+1603742296500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileNLRKMZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742297825	Marionette	INFO	Listening on port 63132
+1603742298043	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603742304553	Marionette	INFO	Stopped listening on port 63132
+1603742307095	geckodriver	INFO	Listening on 127.0.0.1:63178
+1603742310953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileT3IEGr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742312289	Marionette	INFO	Listening on port 63187
+1603742312485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742352794	Marionette	INFO	Stopped listening on port 63187
+1603742355332	geckodriver	INFO	Listening on 127.0.0.1:63244
+1603742359203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileMsaO6A"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742360535	Marionette	INFO	Listening on port 63253
+1603742360745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742366986	Marionette	INFO	Stopped listening on port 63253
+1603742369477	geckodriver	INFO	Listening on 127.0.0.1:63298
+1603742373320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileLKAC4N"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742374695	Marionette	INFO	Listening on port 63307
+1603742374876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742415709	Marionette	INFO	Stopped listening on port 63307
+1603742418257	geckodriver	INFO	Listening on 127.0.0.1:63359
+1603742422035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileDgLXoC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742423542	Marionette	INFO	Listening on port 63371
+1603742423569	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603742429664	Marionette	INFO	Stopped listening on port 63371
+1603742432194	geckodriver	INFO	Listening on 127.0.0.1:63417
+1603742436028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilekhD7h5"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742437352	Marionette	INFO	Listening on port 63426
+1603742437582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742475564	Marionette	INFO	Stopped listening on port 63426
+1603742478110	geckodriver	INFO	Listening on 127.0.0.1:63475
+1603742481957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileId4oSJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742483306	Marionette	INFO	Listening on port 63484
+1603742483501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742490262	Marionette	INFO	Stopped listening on port 63484
+1603742492825	geckodriver	INFO	Listening on 127.0.0.1:63532
+1603742496684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileS15T7u"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742498065	Marionette	INFO	Listening on port 63541
+1603742498245	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603742504278	Marionette	INFO	Stopped listening on port 63541
+1603742506805	geckodriver	INFO	Listening on 127.0.0.1:63586
+1603742510674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile2PqLP5"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742512056	Marionette	INFO	Listening on port 63595
+1603742512211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742550806	Marionette	INFO	Stopped listening on port 63595
+[Parent 23060, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603742553343	geckodriver	INFO	Listening on 127.0.0.1:63643
+1603742557171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile8HCilF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742558479	Marionette	INFO	Listening on port 63652
+1603742558714	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603742567374	Marionette	INFO	Stopped listening on port 63652
+[Parent 14128, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603742569887	geckodriver	INFO	Listening on 127.0.0.1:63695
+1603742573731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileg2HcPz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742575042	Marionette	INFO	Listening on port 63705
+1603742575281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742581740	Marionette	INFO	Stopped listening on port 63705
+1603742584293	geckodriver	INFO	Listening on 127.0.0.1:63757
+1603742588129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilejaBzwb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742589442	Marionette	INFO	Listening on port 63766
+1603742589687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742595175	Marionette	INFO	Stopped listening on port 63766
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603742597671	geckodriver	INFO	Listening on 127.0.0.1:63810
+1603742601530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilezakIaR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742602878	Marionette	INFO	Listening on port 63819
+1603742603066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742613432	Marionette	INFO	Stopped listening on port 63819
+1603742615963	geckodriver	INFO	Listening on 127.0.0.1:63870
+1603742619881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileugu5oE"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742621194	Marionette	INFO	Listening on port 63879
+1603742621430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742661953	Marionette	INFO	Stopped listening on port 63879
+1603742664494	geckodriver	INFO	Listening on 127.0.0.1:63931
+1603742668346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilebZOBbl"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742669795	Marionette	INFO	Listening on port 63940
+1603742669889	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603742676308	Marionette	INFO	Stopped listening on port 63940
+1603742678873	geckodriver	INFO	Listening on 127.0.0.1:63986
+1603742682776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileNz6V54"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742684184	Marionette	INFO	Listening on port 63995
+1603742684327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742725527	Marionette	INFO	Stopped listening on port 63995
+1603742728116	geckodriver	INFO	Listening on 127.0.0.1:64043
+1603742731956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile1c2u7h"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742733322	Marionette	INFO	Listening on port 64052
+1603742733498	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603742790979	Marionette	INFO	Stopped listening on port 64052
+1603742793570	geckodriver	INFO	Listening on 127.0.0.1:64104
+1603742797424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileqs2Zh2"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742798782	Marionette	INFO	Listening on port 64113
+1603742798960	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603742804502	Marionette	INFO	Stopped listening on port 64113
+1603742807004	geckodriver	INFO	Listening on 127.0.0.1:64167
+1603742810924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileuVRJVk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742812245	Marionette	INFO	Listening on port 64176
+1603742812459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742819142	Marionette	INFO	Stopped listening on port 64176
+1603742821647	geckodriver	INFO	Listening on 127.0.0.1:64221
+1603742825481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileLMYoMc"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742826785	Marionette	INFO	Listening on port 64231
+1603742827031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742833655	Marionette	INFO	Stopped listening on port 64231
+[Parent 15488, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603742836154	geckodriver	INFO	Listening on 127.0.0.1:64275
+1603742840049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileGENd2l"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742841358	Marionette	INFO	Listening on port 64284
+1603742841605	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/nimbus-desktop-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603742861392	Marionette	INFO	Stopped listening on port 64284
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1603742863934	geckodriver	INFO	Listening on 127.0.0.1:64339
+1603742867792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile4Hjudy"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742869095	Marionette	INFO	Listening on port 64348
+1603742869335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742875973	Marionette	INFO	Stopped listening on port 64348
+1603742878513	geckodriver	INFO	Listening on 127.0.0.1:64393
+1603742882388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileay6hUD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742883725	Marionette	INFO	Listening on port 64402
+1603742883943	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603742890242	Marionette	INFO	Stopped listening on port 64402
+1603742892768	geckodriver	INFO	Listening on 127.0.0.1:64447
+1603742896660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilelTQWjo"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742897957	Marionette	INFO	Listening on port 64456
+1603742898196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742904573	Marionette	INFO	Stopped listening on port 64456
+[Parent 15820, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603742907146	geckodriver	INFO	Listening on 127.0.0.1:64502
+1603742911013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilenQbAgN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742912361	Marionette	INFO	Listening on port 64511
+1603742912562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742960127	Marionette	INFO	Stopped listening on port 64511
+1603742962715	geckodriver	INFO	Listening on 127.0.0.1:64564
+1603742966613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilezAQP21"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742967953	Marionette	INFO	Listening on port 64573
+1603742968169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603742974176	Marionette	INFO	Stopped listening on port 64573
+1603742976708	geckodriver	INFO	Listening on 127.0.0.1:64618
+1603742980573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilecf6qR1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742981966	Marionette	INFO	Listening on port 64628
+1603742982112	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603742988972	Marionette	INFO	Stopped listening on port 64628
+1603742991479	geckodriver	INFO	Listening on 127.0.0.1:64673
+1603742995338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofiledO1zjr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603742996663	Marionette	INFO	Listening on port 64682
+1603742996892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743037274	Marionette	INFO	Stopped listening on port 64682
+1603743039799	geckodriver	INFO	Listening on 127.0.0.1:64739
+1603743045015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileAuSwzN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743046353	Marionette	INFO	Listening on port 64748
+1603743046558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1603743209710	Marionette	INFO	Stopped listening on port 64748
+1603743212131	geckodriver	INFO	Listening on 127.0.0.1:64829
+1603743215977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileSQWrBu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743217307	Marionette	INFO	Listening on port 64838
+1603743217521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743256877	Marionette	INFO	Stopped listening on port 64838
+1603743259524	geckodriver	INFO	Listening on 127.0.0.1:64892
+1603743263404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileWMeAt1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743264706	Marionette	INFO	Listening on port 64901
+1603743264948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1603743466360	Marionette	INFO	Stopped listening on port 64901
+1603743468772	geckodriver	INFO	Listening on 127.0.0.1:64975
+1603743472671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilevpgpHw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743473999	Marionette	INFO	Listening on port 64984
+1603743474210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743480458	Marionette	INFO	Stopped listening on port 64984
+[Parent 33500, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603743482978	geckodriver	INFO	Listening on 127.0.0.1:65029
+1603743486845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilerhTbAw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743488164	Marionette	INFO	Listening on port 65038
+1603743488401	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603743514976	Marionette	INFO	Stopped listening on port 65038
+1603743517476	geckodriver	INFO	Listening on 127.0.0.1:65111
+1603743521312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileKbXSfJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743522628	Marionette	INFO	Listening on port 65121
+1603743522846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743529459	Marionette	INFO	Stopped listening on port 65121
+1603743531996	geckodriver	INFO	Listening on 127.0.0.1:65169
+1603743535846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileIMZTWw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743537161	Marionette	INFO	Listening on port 65178
+1603743537396	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/nimbus-desktop-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603743557784	Marionette	INFO	Stopped listening on port 65178
+1603743560290	geckodriver	INFO	Listening on 127.0.0.1:65227
+1603743564123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileUh92HX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743565473	Marionette	INFO	Listening on port 65239
+1603743565667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743605529	Marionette	INFO	Stopped listening on port 65239
+1603743608090	geckodriver	INFO	Listening on 127.0.0.1:65288
+1603743611926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileSWj3vS"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743613313	Marionette	INFO	Listening on port 65297
+1603743613479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743660942	Marionette	INFO	Stopped listening on port 65297
+1603743663477	geckodriver	INFO	Listening on 127.0.0.1:65347
+1603743667311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileklLsdb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743668690	Marionette	INFO	Listening on port 65357
+1603743668859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743716146	Marionette	INFO	Stopped listening on port 65357
+1603743718704	geckodriver	INFO	Listening on 127.0.0.1:65416
+1603743722575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileyMkWYu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743723931	Marionette	INFO	Listening on port 65426
+1603743724125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743773685	Marionette	INFO	Stopped listening on port 65426
+1603743776253	geckodriver	INFO	Listening on 127.0.0.1:65486
+1603743780086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilejm7f1w"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743781431	Marionette	INFO	Listening on port 65496
+1603743781632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743788335	Marionette	INFO	Stopped listening on port 65496
+[Parent 28168, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603743790841	geckodriver	INFO	Listening on 127.0.0.1:49157
+1603743794725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilewWVZfz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743796130	Marionette	INFO	Listening on port 49166
+1603743796276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743841357	Marionette	INFO	Stopped listening on port 49166
+1603743843904	geckodriver	INFO	Listening on 127.0.0.1:49220
+1603743847772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile6y5q3u"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743849127	Marionette	INFO	Listening on port 49229
+1603743849318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743897750	Marionette	INFO	Stopped listening on port 49229
+1603743900307	geckodriver	INFO	Listening on 127.0.0.1:49288
+1603743904180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilekR1d00"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743905589	Marionette	INFO	Listening on port 49299
+1603743905732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743912095	Marionette	INFO	Stopped listening on port 49299
+[Parent 6296, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603743914617	geckodriver	INFO	Listening on 127.0.0.1:49344
+1603743918603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileCqqSsZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743920003	Marionette	INFO	Listening on port 49354
+1603743920136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743930234	Marionette	INFO	Stopped listening on port 49354
+1603743932768	geckodriver	INFO	Listening on 127.0.0.1:49405
+1603743936699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilemXS97f"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743938004	Marionette	INFO	Listening on port 49677
+1603743938235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603743978721	Marionette	INFO	Stopped listening on port 49677
+1603743981252	geckodriver	INFO	Listening on 127.0.0.1:49723
+1603743985129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilepn3V7V"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603743986630	Marionette	INFO	Listening on port 49732
+1603743986677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603744033750	Marionette	INFO	Stopped listening on port 49732
+1603744036270	geckodriver	INFO	Listening on 127.0.0.1:49787
+1603744040103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile87gyyj"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603744041465	Marionette	INFO	Listening on port 49797
+1603744041637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603744083991	Marionette	INFO	Stopped listening on port 49797
+1603744086537	geckodriver	INFO	Listening on 127.0.0.1:49847
+1603744090418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileMnQOyj"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603744091802	Marionette	INFO	Listening on port 49856
+1603744091958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603744157201	Marionette	INFO	Stopped listening on port 49856
+1603744159733	geckodriver	INFO	Listening on 127.0.0.1:49905
+1603744163593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilewt0RGU"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603744165016	Marionette	INFO	Listening on port 49914
+1603744165137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603744214949	Marionette	INFO	Stopped listening on port 49914
+1603744217472	geckodriver	INFO	Listening on 127.0.0.1:49961
+1603744221340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilewhywKI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603744222723	Marionette	INFO	Listening on port 49970
+1603744222887	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603744228996	Marionette	INFO	Stopped listening on port 49970
+1603744231487	geckodriver	INFO	Listening on 127.0.0.1:50013
+1603744235392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileW1w7Pq"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603744236771	Marionette	INFO	Listening on port 50022
+1603744236939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603744308472	Marionette	INFO	Stopped listening on port 50022
+1603744311012	geckodriver	INFO	Listening on 127.0.0.1:50078
+1603744314887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilebpTX1r"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603744316257	Marionette	INFO	Listening on port 50087
+extension-storage: migration complete
+1603744316439	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603744322265	Marionette	INFO	Stopped listening on port 50087
+1603744324850	geckodriver	INFO	Listening on 127.0.0.1:50129
+1603744328759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileNYrawl"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603744330101	Marionette	INFO	Listening on port 50138
+1603744330291	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/nimbus-desktop-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603744341259	Marionette	INFO	Stopped listening on port 50138
+[Parent 19184, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603744343764	geckodriver	INFO	Listening on 127.0.0.1:50181
+1603744347655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile5kNi1d"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603744349016	Marionette	INFO	Listening on port 50190
+1603744349194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603744356074	Marionette	INFO	Stopped listening on port 50190
+[Parent 19176, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603744358584	geckodriver	INFO	Listening on 127.0.0.1:50232
+1603744362435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilehRxYDB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603744363797	Marionette	INFO	Listening on port 50241
+1603744363984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603744402538	Marionette	INFO	Stopped listening on port 50241
+1603744405087	geckodriver	INFO	Listening on 127.0.0.1:50288
+1603744408919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileRecPdE"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603744410395	Marionette	INFO	Listening on port 50297
+1603744410479	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1603744591301	Marionette	INFO	Stopped listening on port 50297
