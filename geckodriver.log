@@ -48749,7 +48749,8 @@ extension-storage: migration complete
 console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1603741406643	geckodriver	INFO	Listening on 127.0.0.1:61586
+Exiting due to channel error.
+Listening on 127.0.0.1:61586
 1603741410577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilejesXkX"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
